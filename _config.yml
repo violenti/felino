@@ -30,10 +30,7 @@ url: "https://violenti.github.io/felino/" # the base hostname & protocol for you
 # Build settings
 <<<<<<< HEAD
 remote_theme: theme-minimal
-#theme: minima
-=======
-theme: jekyll-theme-minimal
->>>>>>> e483e29f28aa65743fb01e48a8bdcbf7cce67c8e
+
 plugins:
   - jekyll-feed
 
