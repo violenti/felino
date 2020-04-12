@@ -23,7 +23,7 @@ email: rodavidfernandez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Lorem Ipsum
 baseurl: "/felino" # the subpath of your site, e.g. /blog
-url: "https://violenti.github.io/felino/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://violenti.github.io/felino" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  rdavix
 :github_username:  violenti
 
