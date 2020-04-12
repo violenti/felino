@@ -2,7 +2,7 @@
 layout: post
 title:  "Docker primeros pasos"
 date:   2020-04-12 15:16:00 -0300
-categories: about
+categories: Posts
 ---
 
 Esta publicacion es un breve resumen para inciarse en el uso
