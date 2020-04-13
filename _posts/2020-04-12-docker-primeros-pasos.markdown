@@ -10,7 +10,7 @@ Docker. Este es el inicio de un conjuntos de publicaciones sobre
 el tema. Tratando de reunir un poco de experiencia y
 documentación oficial.
 
-
+![](https://raw.githubusercontent.com/violenti/publication/master/ballena-scale.png)
 
 Pueden descarga en formato pdf desde acá [PDF](https://github.com/violenti/publication/blob/master/docker.pdf)
 
