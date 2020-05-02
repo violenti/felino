@@ -10,7 +10,6 @@ layout: home
 >>> cyberpunk
 &nbsp;
 
-
 ## >> Publicaciones:
 &nbsp;
 ### >> Docker primeros pasos
